@@ -2,17 +2,15 @@
 	"identifier": "container-service-cluster",
 	"about": {
 		"title": "Startup Service Cluster",
-		"explanation": "An elementary blueprint for defining an AWS Container Service Cluster"
+		"explanation": "An elementary blueprint for defining a Container Service Cluster"
 	},
 	"compute_service": {
 		"default": {"identifier": "container_service_cluster"}
 	},
 	"binding_target": {
 		"configuration": {
-		      "kms_key_id": "",
 		      "logging": "OVERRIDE",
 		      "logging_encryption_enabled": true,
-		      "log_group_name": ""
 		}
 	}
 }
