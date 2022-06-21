@@ -10,7 +10,7 @@
 	"binding_target": {
 		"configuration": {
 		      "logging": "OVERRIDE",
-		      "logging_encryption_enabled": true,
+		      "logging_encryption_enabled": true
 		}
 	}
 }
