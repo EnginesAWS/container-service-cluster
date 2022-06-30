@@ -1,2 +1,7 @@
 # Container Service Cluster
-An elementary blueprint for defining an AWS container service cluster
+An elementary blueprint for defining a container service cluster
+
+### Allowable Configuration Bindings
+
+- service_cluster_binding
+- cluster_key_binding
